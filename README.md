@@ -2,7 +2,7 @@
   <img src="./logo.png" width="150px" />
 </p>
 
-<h1 align="center">create-nos-dapp</h1>
+<h1 align="center">nos-otc</h1>
 
 <p align="center">
   nos-otc is a <strong>nos dapp</strong> to facilitate a OTC like transaction on nos platform. A transaction requring asset transfer between two trading parties can be facilitated over this dapp.
