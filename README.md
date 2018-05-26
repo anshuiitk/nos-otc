@@ -31,3 +31,9 @@ Similar was the case of APEX (CPX) tokens when they were visible in the wallets 
 But, even before APEX was listed it was transferable. No one could trade because of the lack of trusted buyers and sellers (Which an exchange provides). Many telegram groups and pools have members which can trust each other and contact. They can exchange tokens only if they knew the exchange of assets could be escrowed to ensure transaction success. The escrow will help develop trust.
 
 nos-otc fills in the gap to establish that trust and provide an escrow facility which can last as long as the buyer and sellers agree. The escrow facility will expire if the participating parties do not honour the asset exchange. The expiry time is pre agreed while creating the otc trade.
+
+## Installation
+To run your dApp, execute:
+1. 'cd nos-otc'
+2. 'npm start' or 'yarn start'
+3. Open the nOS client at nos://localhost:1234
